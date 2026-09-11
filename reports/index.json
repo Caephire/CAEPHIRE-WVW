@@ -4,6 +4,66 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-210849-yauh",
+      "title": "Ryuu Thorne, Selcienne Puro, Zypher Thorne",
+      "commanders": [
+        "Ryuu Thorne",
+        "Selcienne Puro",
+        "Zypher Thorne"
+      ],
+      "guild": {
+        "id": "CE4A6367-09E2-46AC-843A-A26D6C719430",
+        "name": "Zepheris",
+        "tag": "CHR"
+      },
+      "dateStart": "2026-09-11T01:08:49.000Z",
+      "dateEnd": "2026-09-11T03:05:41.126Z",
+      "dateLabel": "9/10/2026, 9:08:49 PM - 9/10/2026, 11:05:41 PM",
+      "url": "https://Caephire.github.io/CAEPHIRE-WVW/?report=20260910-210849-yauh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Ura",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Greer, the Blightbringer",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Decima, the Stormsinger",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Guardian's Glade",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260906-175439-n2du",
       "title": "Emperor Pugtastic, Eryn Tyrell",
       "commanders": [
