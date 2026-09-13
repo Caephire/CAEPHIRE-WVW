@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-233914-abfm",
+      "title": "N O X S T A R S",
+      "commanders": [
+        "N O X S T A R S"
+      ],
+      "guild": {
+        "id": "43024755-D10E-F111-8467-122223FBD123",
+        "name": "Blackgates",
+        "tag": "BG"
+      },
+      "dateStart": "2026-09-13T03:39:14.000Z",
+      "dateEnd": "2026-09-13T03:52:57.804Z",
+      "dateLabel": "9/12/2026, 11:39:14 PM - 9/12/2026, 11:52:57 PM",
+      "url": "https://Caephire.github.io/CAEPHIRE-WVW/?report=20260912-233914-abfm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260912-203450-nf71",
       "title": "Foxdew",
       "commanders": [
