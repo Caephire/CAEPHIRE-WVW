@@ -4,6 +4,59 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-203450-nf71",
+      "title": "Foxdew",
+      "commanders": [
+        "Foxdew"
+      ],
+      "guild": {
+        "id": "CE4A6367-09E2-46AC-843A-A26D6C719430",
+        "name": "Zepheris",
+        "tag": "CHR"
+      },
+      "dateStart": "2026-09-13T00:34:50.000Z",
+      "dateEnd": "2026-09-13T02:01:59.165Z",
+      "dateLabel": "9/12/2026, 8:34:50 PM - 9/12/2026, 10:01:59 PM",
+      "url": "https://Caephire.github.io/CAEPHIRE-WVW/?report=20260912-203450-nf71",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Cardinal Adina",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim the Peerless",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Dhuum",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Soulless Horror",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Qadim",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260911-221244-4k4y",
       "title": "Pixel Paper Doll",
       "commanders": [
