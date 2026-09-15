@@ -4,6 +4,90 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-210318-811w",
+      "title": "Foxdew, Foxfrost",
+      "commanders": [
+        "Foxdew",
+        "Foxfrost"
+      ],
+      "guild": {
+        "id": "CE4A6367-09E2-46AC-843A-A26D6C719430",
+        "name": "Zepheris",
+        "tag": "CHR"
+      },
+      "dateStart": "2026-09-15T01:03:18.000Z",
+      "dateEnd": "2026-09-15T02:12:38.638Z",
+      "dateLabel": "9/14/2026, 9:03:18 PM - 9/14/2026, 10:12:38 PM",
+      "url": "https://Caephire.github.io/CAEPHIRE-WVW/?report=20260914-210318-811w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Deimos",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twisted Castle",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Sabetha the Saboteur",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260912-233914-abfm",
       "title": "N O X S T A R S",
       "commanders": [
